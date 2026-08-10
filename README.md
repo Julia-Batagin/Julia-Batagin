@@ -1,5 +1,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B73,50:0066CC,100:008CFF&height=220&section=header&text=JULIA%20BATAGIN&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/> </p>
-💠 SOBRE MIM
+
+<h1>SOBRE MIM💻</h1>
+ 
 <table align="center"> <tr> <td align="center" width="30%"> <img src="https://img.shields.io/badge/👩‍💻_PERFIL-0066CC?style=for-the-badge&labelColor=001F3F&color=008CFF"/> </td> <td width="70%"> <b>JULIA BATAGIN</b> : Entrando neste mundo de progamação. </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/🎓_FORMAÇÃO-0066CC?style=for-the-badge&labelColor=001F3F&color=008CFF"/> </td> <td> 📚 Estudante do <b>SENAI</b>, sempre buscando aprender, evoluir e transformar conhecimento em projetos. </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/💻_LINGUAGENS-0066CC?style=for-the-badge&labelColor=001F3F&color=008CFF"/> </td> <td> 🐍 <b>Python</b> &nbsp; • &nbsp; ☕ <b>PHP</b> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/🚀_FOCO-0066CC?style=for-the-badge&labelColor=001F3F&color=008CFF"/> </td> <td> Desenvolvimento de software, lógica de programação, criação de projetos e evolução constante. </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/🧠_MENTALIDADE-0066CC?style=for-the-badge&labelColor=001F3F&color=008CFF"/> </td> <td> <b>Aprender → Praticar → Criar → Evoluir</b> </td> </tr> </table> <br> <p align="center"> 
  
 
